@@ -16,4 +16,5 @@ int i, num;
     printf("The average is %.2f.\n",ave);
 
     return 0;
+    //Precious was here!
 }
